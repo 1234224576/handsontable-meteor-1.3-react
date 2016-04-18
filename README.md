@@ -1,4 +1,4 @@
-Handsontalbe on Meteor 1.3 with React demo
+Handsontable on Meteor 1.3 with React demo
 -------------------------------------
 ### Initial setup
 ```sh

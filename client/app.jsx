@@ -1,4 +1,7 @@
 import React from 'react';
+import moment from 'moment';
+import pikaday from 'pikaday';
+import Zeroclipboard from 'zeroclipboard';
 
 export const Layout = ({ content }) => (
   <div>
